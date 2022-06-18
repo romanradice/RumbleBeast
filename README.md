@@ -7,7 +7,7 @@ This game has three local multiplayer mini-games.
 Choose with your friends your favorite beast and play with them in local games.
 
 
-## Mini-game
+## Mini-games
 The game Rumble Beast is a game where beast compete in three modes of fun games locally.
 Challenge your friends in this game locally.
 From 2 players to 4 players.
@@ -24,7 +24,7 @@ Play this game from 2 players to 4 players.
 The mini-game of cats and the mouse: Stay a mouse as long as possible, touch a mouse to turn it into a cat and become a mouse.
 Play this game from 2 players to 4 players.
 
-## Screenshot
+## Screenshots
 ![Characters](https://user-images.githubusercontent.com/65543135/174439892-23d31a17-7e8b-48d3-8db1-a0723dac1b9f.jpg)
 ![modes](https://user-images.githubusercontent.com/65543135/174439893-0b7c39cf-ff70-4eea-842b-f3d8de7fb5de.jpg)
 ![classic](https://user-images.githubusercontent.com/65543135/174439896-6c851ebb-3d25-4dd7-835b-1f8126713707.jpg)
