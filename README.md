@@ -31,14 +31,5 @@ Play this game from 2 players to 4 players.
 ![cat](https://user-images.githubusercontent.com/65543135/174439901-e6aba660-6c6e-49db-9a40-0e7e430f26e8.jpg)
 ![tron](https://user-images.githubusercontent.com/65543135/174439911-baa829ff-6259-49d6-a814-d7eb3cbc968b.jpg)
 
-
-## Technologies
-Unity 3D
-
-## Contributors
-romanradice
-</br>
-alexisradice
-
 ## Download
 You can download it on [Google Play](https://play.google.com/store/apps/details?id=com.BadBrothers.RumbleGames&hl=en)
